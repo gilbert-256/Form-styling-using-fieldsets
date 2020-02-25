@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.form1{
+    margin-top: 30px;
+    height: 690px;
+    border: 1px solid green;
+    border-radius: 10px;
+    width: 620px;
+    margin-left: 200px;
+    margin-bottom: 5px;
+    background-color: #CCEEB9;
+    
+}
+
+.form2{
+    width: 600px;
+    border: 1px solid green;
+    margin-left:8px;
+    height: 620px;
+    background-color: white;
+}
+.input-field{
+    padding: 7px;
+
+}
+
+.input-field label{
+    margin-right: 90px;
+    margin-bottom: 10px;
+    
+
+
+}
+
+.input-field input[type="text"]{
+   
+    margin-bottom: 10px;
+
+
+}
+.input-field input[type="file"]{
+   
+    margin-bottom: 10px;
+
+
+}
+
+.input-small{
+    border: 1px solid  black;
+    width: 70px;
+    height: 90px;
+}
+.input-field label{
+width: 200px;
+background-color: none;
+display: inline-block;
+}
